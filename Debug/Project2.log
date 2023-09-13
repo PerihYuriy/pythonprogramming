@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(26,4): error C2400: inline assembler syntax error in 'second operand'; found 'newline'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(27,4): error C2041: illegal digit 'a' for base '10'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(27,4): error C2041: illegal digit 'd' for base '10'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(27,4): error C2400: inline assembler syntax error in 'opcode'; found 'constant'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(28,4): error C2400: inline assembler syntax error in 'opcode'; found 'bad token'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(53,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(57,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(60,16): error C2664: 'void printRes(char)': cannot convert argument 1 from 'const char [4]' to 'char'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(60,11): message : There is no context in which this conversion is possible
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(41,6): message : see declaration of 'printRes'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(62,16): error C2664: 'void printRes(char)': cannot convert argument 1 from 'const char [4]' to 'char'
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(62,11): message : There is no context in which this conversion is possible
+C:\Users\Користувач\source\repos\Project2\Project2\Source.cpp(41,6): message : see declaration of 'printRes'
